@@ -27,7 +27,3 @@ INFO:     Started server process [91802]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8789 (Press CTRL+C to quit)
-~~~
-
-# Presentation
-[Presentation Slide (Google Drive)](https://docs.google.com/presentation/d/1T3dCdVgkFrOeWz8Yh7OZTQDw9zadn8b6E7xYAGhA_MI/edit?usp=sharing)
